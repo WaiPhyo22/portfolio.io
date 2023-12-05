@@ -3,7 +3,7 @@
 - Email     : waiphyo055192@gmail.com
 - Phone     : +959 262983589
 - GitHub    : https://github.com/WaiPhyo22
-- LinkIn    : https://www.linkedin.com/in/wai-phyo-10512b280/
+- LinkedIn    : https://www.linkedin.com/in/wai-phyo-10512b280/
 
 ## Education
 ### 2011 - 2018
@@ -77,6 +77,7 @@ Collaborated with JapanTeam Members
 - Jquery
 - JavaScript
 - PHP (Laravel)
+- Vue
 - MySql
 - Git, GitHub
 - Aws Code Commit
