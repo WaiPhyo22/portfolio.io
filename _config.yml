@@ -2,7 +2,7 @@
 title: Wai Phyo
 logo: /docs/WaiPhyo.png # Logo file ရဲ့ path
 description: My Portfolio in GitHub Page
-show_downloads: true # Portfolio file download ခလုတ်ဖော်ပြရန်
+show_downloads: false # Portfolio file download ခလုတ်ဖော်ပြရန်
 
 # Google Analytics (လိုအပ်ပါက Tracking ID ထည့်ပါ)
 google_analytics: UA-XXXXXXXXX-X # သင့် Tracking ID နဲ့အစားထိုးပါ
