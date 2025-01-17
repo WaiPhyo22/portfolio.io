@@ -1,20 +1,25 @@
 # Site Settings
 title: Wai Phyo
-logo: /docs/WaiPhyo.png # Logo file ရဲ့ path
+logo: /docs/WaiPhyo.png # Path to the logo
 description: My Portfolio in GitHub Page
-show_downloads: false # Portfolio file download ခလုတ်ဖော်ပြရန်
+show_downloads: false # Hide portfolio file download options
 
-# Google Analytics (လိုအပ်ပါက Tracking ID ထည့်ပါ)
-google_analytics: UA-XXXXXXXXX-X # သင့် Tracking ID နဲ့အစားထိုးပါ
+# Google Analytics (Replace with your actual Tracking ID)
+google_analytics: UA-XXXXXXXXX-X
 
 # Theme Settings
-remote_theme: pages-themes/minimal@v0.2.0 # Minimal Theme အသုံးပြုမှု
+theme: minima # Switch to Minima Theme
 
-# Plugins (Remote Theme အသုံးပြုရန်လိုအပ်)
+# SASS Customization
+sass:
+  style: compressed # Compress CSS output
+
+# Plugins
 plugins:
-  - jekyll-remote-theme
+  - jekyll-sass-converter # For processing SASS/SCSS files
+  - jekyll-remote-theme # If needed for other themes
 
-# Navigation Links (Menu bar တွင် ဖော်ပြမည့် Section များ)
+# Navigation Links (Menu bar links)
 nav_links:
   - title: "About"
     url: "/about"
@@ -25,10 +30,10 @@ nav_links:
   - title: "Contact"
     url: "/contact"
 
-# Defaults (Post တွေအတွက် Default Layout)
+# Defaults (Post Layout Defaults)
 defaults:
   - scope:
-      path: "" # All files တွင် အကျုံးဝင်စေမည်
+      path: "" # Applies to all files
       type: "posts"
     values:
       layout: post
