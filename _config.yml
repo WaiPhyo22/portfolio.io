@@ -1,8 +1,34 @@
+# Site Settings
 title: Wai Phyo
-logo: /docs/WaiPhyo.png
-description: My Portfolio in Github Page
-show_downloads: true
-google_analytics:
-remote_theme: pages-themes/minimal@v0.2.0
+logo: /docs/WaiPhyo.png # Logo file ရဲ့ path
+description: My Portfolio in GitHub Page
+show_downloads: true # Portfolio file download ခလုတ်ဖော်ပြရန်
+
+# Google Analytics (လိုအပ်ပါက Tracking ID ထည့်ပါ)
+google_analytics: UA-XXXXXXXXX-X # သင့် Tracking ID နဲ့အစားထိုးပါ
+
+# Theme Settings
+remote_theme: pages-themes/minimal@v0.2.0 # Minimal Theme အသုံးပြုမှု
+
+# Plugins (Remote Theme အသုံးပြုရန်လိုအပ်)
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-remote-theme
+
+# Navigation Links (Menu bar တွင် ဖော်ပြမည့် Section များ)
+nav_links:
+  - title: "About"
+    url: "/about"
+  - title: "Projects"
+    url: "/projects"
+  - title: "Skills"
+    url: "/skills"
+  - title: "Contact"
+    url: "/contact"
+
+# Defaults (Post တွေအတွက် Default Layout)
+defaults:
+  - scope:
+      path: "" # All files တွင် အကျုံးဝင်စေမည်
+      type: "posts"
+    values:
+      layout: post
