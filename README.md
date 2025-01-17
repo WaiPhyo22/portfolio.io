@@ -1,96 +1,94 @@
-# PORTFOLIO
-- Mandalay , Myanmar
-- Email     : waiphyo055192@gmail.com
-- Phone     : +959 262983589
-- GitHub    : https://github.com/WaiPhyo22
-- LinkedIn    : https://www.linkedin.com/in/wai-phyo-10512b280/
+# **Wai Phyo's Portfolio**
+> Experienced Web Developer specializing in Laravel, equipped with expertise in creating scalable and user-friendly web systems.
 
-## Education
-### 2011 - 2018
-- Bachelor of Computer Science  (University of Computer Studies - Pakokku)
+---
 
-## Career Objective
-- Experienced Web Developer adept in all stages of advanced web development.
-- Knowledgeable in user interface, testing, and debugging processes.
-- Bringing forth expertise in design, installation, testing and maintenance of web systems.
-- Equipped with a diverse and promising skill-set.
-- Able to effectively self-manage during independent projects, as well as collaborate in a team setting
+## **Contact Information**
+- **Location**: Mandalay, Myanmar  
+- **Email**: [waiphyo055192@gmail.com](mailto:waiphyo055192@gmail.com)  
+- **Phone**: [+959 262983589](tel:+959262983589)  
+- **GitHub**: [github.com/WaiPhyo22](https://github.com/WaiPhyo22)  
+- **LinkedIn**: [Wai Phyo](https://www.linkedin.com/in/wai-phyo-10512b280/)  
 
-## Working Experience
-### Scala-Next,Inc Company / Web Developer
-Apr 2019 - PRESENT,  Mandalay
+---
 
-** Laravel Projects: **
-- Fitbiz (Otsuka Healthcare project) (Present)
-```
-Using Tech : Laravel-9, Mysql, jquery
-Running Consumer Survey for start, weekly and monthly that will get their results
-depending on Sleep or Lifestyle Program 
-Batch system for Sending reminder mail and report mail for their results 
-Provided long-term personalized health-care plans and provides health suggestions
-and medical products with research and developed related to health and medical care.
-Provided for many users of each organization with lifestyle service with 3 months
-program and sleep service with 1 month program.
-Use AWS Code Commit for Version Control .
-Build new project with laravel (customer project) 
-Collaborate and communicate with Japan Team Members
-```
+## **Education**
+**2011 - 2018**  
+- **Bachelor of Computer Science**  
+  *University of Computer Studies, Pakokku*
 
-- ORDX (Otsuka Healthcare survey project)
-```
-Used Tech : Laravel-9, MySQL, jquery
-Provided personalized health prediction feedback by answering a simple questionnaire
-and provides health suggestions with research and developed related to health and
-medical care. 
-Provided services for lifestyle service, sleep service, hydration service, woman-health
-service and immunity service
-Use AWS Code Commit for Version Control
-Collaborated with JapanTeam Members
-```
+---
 
-- Mecipe project
-```
-Used Tech : Laravel-9, MySQL
-Developed and maintained both Front-end and Back-end
-Developed a user-friendly recipe-sharing platform aimed at providing an extensive
-collection of recipes for users. Responsible for the entire admin site development with  
-php unit ,system design, test documentation.
-Solved the problems about this project , and provide the better solutions for team
-members
-Use AWS Code Commit for Version Control
-Collaborated with Team Members
-```
+## **Career Objective**
+An experienced Web Developer with a diverse skill set, excelling in:  
+- Designing and maintaining advanced web systems.  
+- User interface development and debugging processes.  
+- Collaboration in team environments and managing independent projects.  
+I strive to deliver impactful and innovative solutions for businesses.
 
-- Home contents insurance project
-```
-Used Tech : Laravel-9, MySQL
-Developed and maintained Front-end
-Use AWS Code Commit for Version Control
-Collaborated with JapanTeam Members
-```
+---
 
-## Skills
-### Technologies
-- HTML
-- CSS
-- Bootstrap
-- Jquery
-- JavaScript
-- PHP (Laravel)
-- Vue
-- MySql
-- Git, GitHub
-- Aws Code Commit
+## **Professional Experience**
+### **Scala-Next, Inc.** *(Web Developer)*  
+**Apr 2019 - Present | Mandalay, Myanmar**  
+Worked on multiple Laravel-based projects, collaborating with international teams.  
 
-### Language
-- English(Proficiency)
-- Japanese(N4-Learning)
+#### **Key Projects**
+1. **Fitbiz (Otsuka Healthcare Project)** *(Ongoing)*  
+   - Built a consumer survey system for health monitoring using **Laravel 9**, **MySQL**, and **jQuery**.  
+   - Developed batch systems for automated reminders and health result emails.  
+   - Delivered personalized healthcare plans for thousands of users.  
+   - Version control using **AWS Code Commit**.  
 
-### Others
-- Laravel Testing
-- Agile (Scrum) using Jira and Zoho Sprint
+2. **ORDX (Otsuka Healthcare Survey)**  
+   - Created personalized health prediction systems based on questionnaires.  
+   - Integrated **lifestyle**, **sleep**, and **immunity** health services.  
+   - Ensured seamless collaboration with the Japan-based team.  
 
-## Other Skills
-- Meet all deadlines
-- Self-motivated, discipline and project assigned
-- Quick Learner and ability to learn new technologies
+3. **Mecipe (Recipe Sharing Platform)**  
+   - Designed and developed both front-end and back-end features.  
+   - Admin site development with **PHP Unit Testing** and system design documentation.  
+   - Resolved technical challenges and provided optimal solutions.  
+
+4. **Home Contents Insurance Project**  
+   - Focused on front-end development using **Laravel 9**.  
+
+---
+
+## **Technical Skills**
+### **Technologies**
+- **Frontend**: HTML, CSS, Bootstrap, jQuery, JavaScript, Vue.js  
+- **Backend**: PHP (Laravel Framework), MySQL  
+- **Version Control**: Git, GitHub, AWS Code Commit  
+
+### **Languages**
+- **English**: Proficient  
+- **Japanese**: Learning (JLPT N4 Level)  
+
+### **Other Skills**
+- Agile methodology (Scrum) with Jira and Zoho Sprint.  
+- Expertise in Laravel Testing and debugging.  
+- Strong commitment to deadlines and self-discipline.  
+- Quick learner with the ability to adapt to new technologies.
+
+---
+
+## **Portfolio Highlights**
+### **Fitbiz - Advanced Health Monitoring Platform**
+A web application providing personalized healthcare plans and tracking for users.  
+
+### **Mecipe - Recipe Sharing Community**
+A recipe-sharing platform offering user-friendly features and robust admin tools.
+
+**View more projects on GitHub**: [github.com/WaiPhyo22](https://github.com/WaiPhyo22)  
+
+---
+
+## **Other Skills**
+- Strong problem-solving abilities.  
+- Excellent communication and teamwork.  
+- Dedicated to learning and self-improvement.  
+
+---
+
+> *"Passion drives me to craft impactful web solutions that make a difference."*  
